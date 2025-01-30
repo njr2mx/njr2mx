@@ -23,3 +23,6 @@ ver que nos indica git
 tambien podemos excentar archivos que no queremos que se registren en git 
 y para estose crea un archivo con las caracteristicas que deseamos evitar 
 registrar
+
+para ver el historial de lo que hemos realizado debemos usar el 
+comando "git log" o en su defecto y mas resumido el comando "git log --oneline"
