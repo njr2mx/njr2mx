@@ -18,3 +18,8 @@ el comando "git add [nombre_del_archivo]", es decir git add Archivo1.txt
 -asegurémos que todo esta bien escrito y demos aceptar-
 para revisar que todo va bien, repetimos el comando "git status", para 
 ver que nos indica git
+
+
+tambien podemos excentar archivos que no queremos que se registren en git 
+y para estose crea un archivo con las caracteristicas que deseamos evitar 
+registrar
