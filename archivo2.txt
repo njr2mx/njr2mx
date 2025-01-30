@@ -1,2 +1,15 @@
 este es otro archivo que nos permite ver el funcionamiento del comando
 git add.
+
+pasos generales para inciar a trabajar con git
+
+
+1.- colocarnos en la carpeta que vamos a trabajar.
+    Ya sea en la consola de Git Bash o en nuestro editor 
+
+2.- ejecutar el comando "git init" y listo
+
+3.- ejecutamos el comando "git status", verificando que todo esta listo
+    para iniciar a trabajar.
+    
+    
