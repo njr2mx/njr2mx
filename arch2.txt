@@ -19,3 +19,13 @@ pasos generales para inciar a trabajar con git
     borrado pasándolo al "staged" y despues se hace el "commit" para borrarlo 
     en donde estaba haciendo el respaldo.
     
+    ya hemos visto varios comando, como los de restaurar "git restore [Name_file]"
+    o tambien "git --restore [Name_file]"
+
+    tambien se ha visto elcomando "git log", para ver el historial de lo que se ha realizado
+    asi como tambien en una forma mas simplificada el comando "git log --oneline"
+
+    por cierto para observar el estado de como se van realizando tareas tambien se puede 
+
+    usar el comando "status -s" el cual nos presenta de manera mas concisa la información de
+    lo que se ha realizado en el proceso 
