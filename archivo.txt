@@ -1,0 +1,12 @@
+aqui estamos escribiendo el comportamiento de la consola 
+cada que se ejecuta un comando con git
+
+recordemos que una vez estando en la carpeta que vamos a trabajar
+debenos inciar el espácio de trabajo con git y esto es 
+usando "git init"
+
+y con esto estara activado el modo para iniciar el control de versiones
+
+y para asegurar debemos ejecutar el comando "git status"
+
+y aca nos indicara que ya esta listo 

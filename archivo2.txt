@@ -1,0 +1,2 @@
+este es otro archivo que nos permite ver el funcionamiento del comando
+git add.
