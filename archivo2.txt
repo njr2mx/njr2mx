@@ -12,4 +12,10 @@ pasos generales para inciar a trabajar con git
 3.- ejecutamos el comando "git status", verificando que todo esta listo
     para iniciar a trabajar.
     
+
+    acontinuacion se revisa el barrado de archivos y la restauracion de archivos.
+
+    bueno primero se borra el archivo, despues se informa a git que se ha
+    borrado pasándolo al "staged" y despues se hace el "commit" para borrarlo 
+    en donde estaba haciendo el respaldo.
     
