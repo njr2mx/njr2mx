@@ -2,8 +2,8 @@ aqui estamos escribiendo el comportamiento de la consola
 cada que se ejecuta un comando con git
 
 recordemos que una vez estando en la carpeta que vamos a trabajar
-debenos inciar el espácio de trabajo con git y esto es 
-usando "git init"
+debemos inciar el espacio de trabajo con git y esto es 
+usando el comando "git init"
 
 y con esto estara activado el modo para iniciar el control de versiones
 
@@ -21,7 +21,7 @@ ver que nos indica git
 
 
 tambien podemos excentar archivos que no queremos que se registren en git 
-y para estose crea un archivo con las caracteristicas que deseamos evitar 
+y para esto se crea un archivo con las caracteristicas que deseamos evitar 
 registrar
 
 para ver el historial de lo que hemos realizado debemos usar el 

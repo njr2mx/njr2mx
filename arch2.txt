@@ -29,3 +29,5 @@ pasos generales para inciar a trabajar con git
 
     usar el comando "status -s" el cual nos presenta de manera mas concisa la información de
     lo que se ha realizado en el proceso 
+
+    
