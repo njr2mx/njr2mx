@@ -1,0 +1,28 @@
+aqui estamos escribiendo el comportamiento de la consola 
+cada que se ejecuta un comando con git
+
+recordemos que una vez estando en la carpeta que vamos a trabajar
+debemos inciar el espacio de trabajo con git y esto es 
+usando el comando "git init"
+
+y con esto estara activado el modo para iniciar el control de versiones
+
+y para asegurar debemos ejecutar el comando "git status"
+
+y aca nos indicara que ya esta listo 
+
+a continuacion, suponiendo que trabajamos en un archivo llamado
+"Archivo1.txt", el cual hemos editado y queremos guardarlo entoces 
+procedemos a pasarlo a un espacio temporal llamado "stage" usando 
+el comando "git add [nombre_del_archivo]", es decir git add Archivo1.txt
+-asegurémos que todo esta bien escrito y demos aceptar-
+para revisar que todo va bien, repetimos el comando "git status", para 
+ver que nos indica git
+
+
+tambien podemos excentar archivos que no queremos que se registren en git 
+y para esto se crea un archivo con las caracteristicas que deseamos evitar 
+registrar
+
+para ver el historial de lo que hemos realizado debemos usar el 
+comando "git log" o en su defecto y mas resumido el comando "git log --oneline"
